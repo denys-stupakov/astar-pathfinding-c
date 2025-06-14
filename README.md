@@ -12,4 +12,4 @@ A C implementation of the A* algorithm for pathfinding, visualized with SDL3.
 - Simple UI
 
 ## 📷 Screenshots
-|(preview.png)
+<img src="game-preview.png" alt="Preview" width="400"/>
